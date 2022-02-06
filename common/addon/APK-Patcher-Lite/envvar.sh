@@ -1,0 +1,1 @@
+apklist="Bluetooth.apk";
